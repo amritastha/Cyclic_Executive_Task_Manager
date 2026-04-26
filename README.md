@@ -43,7 +43,7 @@ Hardware Setup:
 - Input validation for invalid LED numbers or blinking intervals
 
 ## Contribution: 
-This was an individual project. I designed and implemented the circuit, asynchronous LED control logic, serial input handling system, and testing and validation procedures.
+This was an individual project for CMPE 310/CMPE 311. I designed and implemented the circuit, asynchronous LED control logic, serial input handling system, and testing and validation procedures.
 
 ## Sample Test/Usage Dialog:
 <img width="1392" height="1020" alt="image" src="https://github.com/user-attachments/assets/1847020d-92ac-4cdc-8329-840a9987a2c2" />
